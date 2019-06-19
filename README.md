@@ -7,6 +7,6 @@ The game uses <strong>Min-Max</strong> algorithm to power the AI that plays agai
 <p>1)Python 3.5+</p>
 <p>2)Pygame</p>
 <br><hr><br>
-<h2>To be done:-<h2>
+<h2>To be done:-</h2>
 <p>Improve UI</p>
 <p>Add replay feature</p>
